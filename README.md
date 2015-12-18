@@ -16,7 +16,7 @@ The following **Tip-Calculator** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/gallery/Kt80Zia/new' title='Video Walkthrough' >
+<img src='http://i.imgur.com/gallery/Kt80Zia/new' title='tip calculator app' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
