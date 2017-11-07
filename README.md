@@ -2,7 +2,7 @@
 tip calculator with percentages 18,20, and 22.
 # Pre-work - *Tip-Calculator*
 
-**Tip-Calculator** is a tip calculator application for iOS.
+**Tip-Calculator** ifs a tip calculator application for iOS.
 
 Submitted by: **Haaris Khan**
 
